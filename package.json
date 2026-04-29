@@ -1,0 +1,16 @@
+{
+  "name": "treinando-programacao",
+  "version": "1.0.0",
+  "description": "Estudos de programação",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.15",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  }
+}
